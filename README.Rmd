@@ -18,7 +18,7 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of HWK09.package is to add ten to each 
+The goal of HWK09.package is to add ten to each number. 
 
 ## Installation
 
